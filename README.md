@@ -7,7 +7,6 @@
 
 ## 👩‍🏫PROJECT 소개
 
-
 자동차 음성제어를 위한 voice trigger 모듈 개발
 
 Trigger Word를 HTK를 사용한 HMM모델, python을 사용한 CNN 모델로 학습 하고 결과를 비교
@@ -26,3 +25,5 @@ Trigger Word를 HTK를 사용한 HMM모델, python을 사용한 CNN 모델로 �
 
 `Python` `HTK` `VisualStudioCode` `AdobeAudition`
 
+## Details
+[ppt](https://minjeejang-95.notion.site/Voice-Trigger-6c1e2a7ee61f4aeebf6a52f01f646343)
