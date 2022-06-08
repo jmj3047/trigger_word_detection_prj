@@ -27,4 +27,5 @@ Trigger Word를 HTK를 사용한 HMM모델, python을 사용한 CNN 모델로 �
 
 ## Details
 [ppt & poster](https://minjeejang-95.notion.site/Voice-Trigger-6c1e2a7ee61f4aeebf6a52f01f646343)
+
 [htk experiments](https://www.dropbox.com/sh/gzvylrm35vdxn66/AAAcYhu_Gmfvk1uSS_Bd9Sq7a?dl=0)
